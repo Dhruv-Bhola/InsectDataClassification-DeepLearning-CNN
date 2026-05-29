@@ -245,9 +245,9 @@ Training and Validation Loss curves are plotted to monitor:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/dangerous-insects-classification.git
+git clone https://github.com/Dhruv-Bhola/InsectDataClassification-DeepLearning-CNN
 
-cd dangerous-insects-classification
+cd InsectDataClassification-DeepLearning-CNN
 ```
 
 ### Install Dependencies
@@ -258,46 +258,13 @@ pip install torch torchvision matplotlib seaborn scikit-learn pillow numpy
 
 ---
 
-## ▶️ Run Training
-
-```bash
-python train.py
-```
-
----
-
-## 📁 Project Structure
-
-```text
-project/
-│
-├── dataset/
-│
-├── train.py
-│
-├── models/
-│
-├── outputs/
-│   ├── plots/
-│   └── checkpoints/
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
 ## 🧪 Key Deep Learning Concepts Used
 
-- Custom Dataset Class
-- DataLoader
 - Convolutional Neural Networks (CNN)
 - Batch Normalization
 - Dropout Regularization
 - Adaptive Average Pooling
 - Fully Connected Layers
-- Cross Entropy Loss
 - Backpropagation
 - Adam Optimization
 - Multi-Class Classification
