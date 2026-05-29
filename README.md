@@ -291,14 +291,6 @@ Deep Learning | Computer Vision | Remote Sensing | Earth Observation
 
 ---
 
-## ⭐ Acknowledgements
-
-- PyTorch Team
-- Kaggle Dataset Contributors
-- Open Source Deep Learning Community
-
----
-
 <div align="center">
 
 ⭐ If you found this project useful, consider giving it a star.
