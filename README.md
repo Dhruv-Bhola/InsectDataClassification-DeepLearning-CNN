@@ -14,7 +14,9 @@ A deep learning-based image classification system for identifying harmful agricu
 
 ## 📖 Project Overview
 Developed a Convolutional Neural Network (CNN) using PyTorch for agricultural insect classification.
+
 The model was trained on the **Dangerous Insects Dataset** and classified images into four categories: Aphids, Citrus Canker, Spider Mites, and Thrips.
+
 The objective is to automate insect and disease identification for agricultural monitoring and early crop protection.
 
 - Built a custom PyTorch Dataset and DataLoader pipeline for image preprocessing and batch generation.
