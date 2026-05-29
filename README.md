@@ -256,19 +256,6 @@ pip install torch torchvision matplotlib seaborn scikit-learn pillow numpy
 
 ---
 
-## 🧪 Key Deep Learning Concepts Used
-
-- Convolutional Neural Networks (CNN)
-- Batch Normalization
-- Dropout Regularization
-- Adaptive Average Pooling
-- Fully Connected Layers
-- Backpropagation
-- Adam Optimization
-- Multi-Class Classification
-
----
-
 ## 🔮 Future Enhancements
 
 - Transfer Learning with ResNet50
