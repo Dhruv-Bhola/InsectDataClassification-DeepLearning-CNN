@@ -13,19 +13,16 @@ A deep learning-based image classification system for identifying harmful agricu
 ---
 
 ## 📖 Project Overview
+- Developed a Convolutional Neural Network (CNN) using PyTorch for agricultural insect classification.
+- The model was trained on the **Dangerous Insects Dataset** and classified images into four categories: Aphids, Citrus Canker, Spider Mites, and Thrips.
+- The objective is to automate insect and disease identification for agricultural monitoring and early crop protection.
 
-This project implements a **Custom Convolutional Neural Network (CNN)** using **PyTorch** to classify agricultural pest and disease images into four categories.
-
-The model is trained on the **Dangerous Insects Dataset** and leverages:
-
-- Convolutional Neural Networks (CNNs)
-- Batch Normalization
-- Dropout Regularization
-- Adaptive Average Pooling
-- Adam Optimizer
-- Cross Entropy Loss
-
-The objective is to automate insect and disease identification for agricultural monitoring and early crop protection.
+- Built a custom PyTorch Dataset and DataLoader pipeline for image preprocessing and batch generation.
+- Applied image resizing, normalization, and data handling techniques for efficient model training.
+- Designed a CNN architecture with Batch Normalization, Dropout Regularization, and Fully Connected layers.
+- Trained the model using the Adam optimizer and CrossEntropy Loss.
+- Evaluated performance using precision, recall, F1-score, and classification reports.
+- Visualized training and validation loss trends to monitor model learning and generalization.
 
 ---
 
