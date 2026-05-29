@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)
 ![CNN](https://img.shields.io/badge/Model-CNN-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A deep learning-based image classification system for identifying harmful agricultural insects and crop diseases using a custom Convolutional Neural Network (CNN).
 
